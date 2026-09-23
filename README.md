@@ -6,3 +6,11 @@ Alzheimer's disease is a progressive neurodegenerative disorder that primarily a
 This project explores a machine learning and deep learning based approach for the early detection and classification of Alzheimer's disease using brain MRI scans and cognitive/speech-related information.
 
 The project combines medical imaging with clinical and cognitive features to investigate whether machine learning models can identify patterns associated with Alzheimer's disease and its early stages.
+
+🎯 Objectives
+Develop a machine learning pipeline for Alzheimer's disease classification.
+Analyze structural information from brain MRI scans.
+Explore cognitive and demographic features associated with Alzheimer's disease.
+Compare different machine learning and deep learning approaches.
+Evaluate model performance using appropriate classification metrics.
+Investigate the possibility of combining MRI-based and non-imaging information for improved detection.
