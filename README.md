@@ -1,4 +1,4 @@
-# Early-detection-of-Alzheimer-s-disease
+#Alzheimer's Disease Classification from MRI (ADNI)
 📌 Project Overview
 
 Alzheimer's disease is a progressive neurodegenerative disorder that primarily affects memory, thinking, and cognitive abilities. Early detection can help support timely intervention and monitoring.
@@ -7,7 +7,7 @@ This project explores a machine learning and deep learning based approach for th
 
 The project combines medical imaging with clinical and cognitive features to investigate whether machine learning models can identify patterns associated with Alzheimer's disease and its early stages.
 
-# Alzheimer's Disease Classification from MRI (ADNI)
+# Project walkthrough
 
 Multi-class (AD / CN / MCI) classification of brain MRI slices using deep learning, built on the ADNI1 dataset. This repo documents three iterations of the modeling pipeline, including a data leakage bug that was found and fixed mid-project.
 
