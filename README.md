@@ -1,4 +1,4 @@
-#Alzheimer's Disease Classification from MRI (ADNI)
+# Alzheimer's Disease Classification from MRI (ADNI)
 📌 Project Overview
 
 Alzheimer's disease is a progressive neurodegenerative disorder that primarily affects memory, thinking, and cognitive abilities. Early detection can help support timely intervention and monitoring.
